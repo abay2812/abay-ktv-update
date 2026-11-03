@@ -40,13 +40,15 @@ Cari lagu karaoke apa saja • Efek suara khas KTV • Skor dari mikrofon • La
 | 📱 **Remote HP** (tamu pilih lagu lewat QR Code) | ❌ | ✅ |
 | 🏅 Label BETA → **PRO** | ❌ | ✅ |
 
-## ⭐ Dapatkan Pro: cukup Rp 25.000
+## ⭐ Dapatkan Pro: cukup Rp 50.000
 
 **Harga beta: sekali bayar per PC, update gratis seterusnya.**
 
 1. Di aplikasi, klik **⭐ Aktifkan Pro**, lalu **📋 Salin** ID Perangkat Anda.
-2. Dukung minimal **Rp 25.000** lewat **[saweria.co/Akhbarbayu](https://saweria.co/Akhbarbayu)**, dan tulis **ID Perangkat + nama** di pesan.
+2. Dukung minimal **Rp 50.000** lewat **[saweria.co/Akhbarbayu](https://saweria.co/Akhbarbayu)**, dan tulis **ID Perangkat + nama** di pesan.
 3. Tempel **kode lisensi** yang Anda terima, lalu klik **✅ Aktifkan**.
+
+☕ **Sudah Pro?** Dukungan sukarela **Rp 25.000 – 30.000** kapan saja sangat membantu update dan fitur berikutnya.
 
 Setiap dukungan membantu pengembangan fitur berikutnya. Terima kasih! 🙏
 
