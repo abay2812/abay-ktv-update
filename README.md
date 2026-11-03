@@ -31,9 +31,11 @@ Cari lagu karaoke apa saja • Efek suara khas KTV • Skor dari mikrofon • La
 | 🎵 Antrian, Favorit, Top Hits, Smart DJ | ✅ | ✅ |
 | 📂 Lagu offline (MP4 / MP3 milik sendiri) | ✅ | ✅ |
 | 👏 Efek suara KTV: tepuk tangan, sorak, air horn, tertawa | ✅ | ✅ |
-| 🏆 Skor vokal dari mikrofon & Papan Juara | ✅ | ✅ |
-| 🔊 Pindah suara ke speaker TV sekali klik | ✅ | ✅ |
-| 🚀 Update otomatis | ✅ | ✅ |
+| 🔔 Pemberitahuan versi baru | ✅ | ✅ |
+| 🏆 **Skor vokal** dari mikrofon & **Papan Juara** | ❌ | ✅ |
+| 🔊 **Pindah speaker** ke TV sekali klik | ❌ | ✅ |
+| 🌈 **Tema lampu neon** & **tempo** lagu | ❌ | ✅ |
+| 🚀 **Update sekali klik** | ❌ | ✅ |
 | 📺 **Layar TV** (layar kedua khusus video, layar penuh) | ❌ | ✅ |
 | 📱 **Remote HP** (tamu pilih lagu lewat QR Code) | ❌ | ✅ |
 | 🏅 Label BETA → **PRO** | ❌ | ✅ |
