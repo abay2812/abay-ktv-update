@@ -1,33 +1,59 @@
-# ABAY KTV ROOM - Server Update
+<div align="center">
 
-Repo ini adalah **tempat update otomatis** untuk aplikasi ABAY KTV ROOM.
-Aplikasi di PC pengguna membaca `version.json` di sini untuk mengetahui apakah ada versi baru.
+# 🎤 ABAY KTV ROOM
 
-## Alamat yang dipakai aplikasi
+### Ubah PC & TV Anda Jadi Ruang Karaoke!
 
-| Fungsi | URL |
-|---|---|
-| Cek versi terbaru | https://raw.githubusercontent.com/abay2812/abay-ktv-update/main/version.json |
-| Daftar rilis | https://github.com/abay2812/abay-ktv-update/releases |
+Cari lagu karaoke apa saja • Efek suara khas KTV • Skor dari mikrofon • Layar TV • Remote HP
 
-## Isi version.json
+**[⬇️ Unduh Versi Terbaru](https://github.com/abay2812/abay-ktv-update/releases/latest)** • **[💝 Dukung Pengembang](https://saweria.co/Akhbarbayu)**
 
-| Kolom | Arti |
-|---|---|
-| `versi` | Nomor versi terbaru, misal `1.1.0` |
-| `tanggal` | Tanggal rilis |
-| `catatan` | Teks yang tampil di banner notifikasi update |
-| `url` | Link unduh file zip update |
-| `wajib` | `true` jika pengguna harus update (tombol "Nanti" disembunyikan) |
+</div>
 
-## Cara merilis versi baru
+---
 
-**Langkah 1.** Jalankan `node src/build.js` di PC pembuat, lalu zip isi folder `app/` (tanpa `src/` dan tanpa `lagu_offline/`).
+## 🚀 Mulai dalam 3 Langkah
 
-**Langkah 2.** Buka tab **Releases** lalu klik **Draft a new release**. Buat tag baru, misal `v1.1.0`, lalu upload file zip-nya dan klik **Publish release**.
+1. Buka **[Releases](https://github.com/abay2812/abay-ktv-update/releases/latest)**, lalu unduh **`ABAY-KTV-ROOM-v….zip`**.
+2. Klik kanan file zip → **Extract All**.
+3. Klik ganda **`Buka_Karaoke.bat`**. Selesai, siap nyanyi! 🎶
 
-**Langkah 3.** Edit `version.json` di repo ini: naikkan `versi`, isi `catatan`, dan ganti `url` dengan link zip dari rilis tersebut.
+> **Tanpa install.** Semua yang dibutuhkan sudah ada di dalam paket.
+> Butuh: Windows 10/11, Chrome atau Edge, dan internet untuk lagu YouTube.
 
-Setelah `version.json` disimpan, semua pengguna akan melihat notifikasi update saat membuka aplikasi.
+---
 
-> Catatan: rilis v1.0.0 di repo ini hanya contoh (dummy) untuk menguji alur update.
+## ✨ Fitur
+
+| | Basic (Gratis) | ⭐ Pro |
+|---|:---:|:---:|
+| 🔍 Cari & putar lagu karaoke YouTube (filter nada cowok/cewek, minus one) | ✅ | ✅ |
+| 🎵 Antrian, Favorit, Top Hits, Smart DJ | ✅ | ✅ |
+| 📂 Lagu offline (MP4 / MP3 milik sendiri) | ✅ | ✅ |
+| 👏 Efek suara KTV: tepuk tangan, sorak, air horn, tertawa | ✅ | ✅ |
+| 🏆 Skor vokal dari mikrofon & Papan Juara | ✅ | ✅ |
+| 🔊 Pindah suara ke speaker TV sekali klik | ✅ | ✅ |
+| 🚀 Update otomatis | ✅ | ✅ |
+| 📺 **Layar TV** (layar kedua khusus video, layar penuh) | ❌ | ✅ |
+| 📱 **Remote HP** (tamu pilih lagu lewat QR Code) | ❌ | ✅ |
+| 🏅 Label BETA → **PRO** | ❌ | ✅ |
+
+## ⭐ Cara Mendapatkan Pro
+
+1. Di aplikasi, klik **⭐ Aktifkan Pro**, lalu **📋 Salin** ID Perangkat Anda.
+2. Dukung lewat **[saweria.co/Akhbarbayu](https://saweria.co/Akhbarbayu)**, dan tulis **ID Perangkat + nama** di pesan.
+3. Tempel **kode lisensi** yang Anda terima, lalu klik **✅ Aktifkan**.
+
+Setiap dukungan membantu pengembangan fitur berikutnya. Terima kasih! 🙏
+
+---
+
+## 📝 Catatan
+
+- Aplikasi masih **beta**. Laporan bug dan masukan sangat diterima lewat tab **Issues**.
+- Lagu YouTube diputar langsung dari YouTube. Sebagian video bisa dibatasi pemiliknya.
+- Untuk usaha karaoke komersial (rental / kafe), urus izin royalti lagu sesuai aturan yang berlaku.
+
+---
+
+<sub>Repo ini juga menjadi server update otomatis aplikasi. Aplikasi membaca `version.json` untuk mengetahui versi terbaru.</sub>
