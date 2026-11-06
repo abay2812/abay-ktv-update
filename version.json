@@ -1,7 +1,9 @@
 {
-  "versi": "1.0.0",
-  "tanggal": "2026-11-04",
-  "catatan": "Rilis beta pertama ABAY KTV ROOM",
-  "url": "https://github.com/abay2812/abay-ktv-update/releases/download/v1.0.0/abay-ktv-app-v1.0.0.zip",
-  "wajib": false
+  "versi": "1.0.1",
+  "tanggal": "2026-11-06",
+  "catatan": "Perbaikan error dan bug, serta peningkatan stabilitas",
+  "url": "https://github.com/abay2812/abay-ktv-update/releases/download/v1.0.1/abay-ktv-app-v1.0.1.zip",
+  "wajib": false,
+  "sha256": "ca2d587724c16c4a6dd079816d6b68660c0150ef0ec9b869eadfaa0218bde5b6",
+  "sig": "ojhRRCMZ2s3x4-Cn0niMNK56IYCFk0GWgI1Gzcws17e0icu2E--d5tfITE7PvDGBkUlireO9NJfJhKM8oCQQqQ"
 }
